@@ -1,0 +1,100 @@
+@import "../../css/global.css";
+p {
+  width: 505px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 24px;
+}
+
+h3 {
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+.picture {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 48px;
+  padding-top: 96px;
+}
+
+.melo-bio {
+  margin-bottom: 32px;
+}
+
+time {
+  padding-top: 32px;
+}
+
+.social-icons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 27px;
+}
+
+.main-icons {
+  padding-bottom: 96px;
+}
+
+.read-btn {
+  display: flex;
+  color: #444cfc;
+  &:hover {
+    color: #232323;
+  }
+}
+
+h4 {
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 26px;
+}
+
+.post,
+.guide {
+  display: flex;
+  background-color: white;
+}
+
+.main-text {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 300px;
+  padding-left: 32px;
+}
+
+.team-posts {
+  display: flex;
+  gap: 32px;
+  background-color: #ecf8f9;
+  margin-bottom: 96px;
+}
+
+.blog-posts {
+  background-color: #ecf8f9;
+}
+
+.main-heading {
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 58px;
+  padding-bottom: 48px;
+}
+
+.shape {
+  padding-top: 96px;
+}
+
+main {
+  background-color: #ecf8f9;
+}
+
+section {
+  background-color: white;
+}
