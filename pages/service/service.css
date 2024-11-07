@@ -204,3 +204,65 @@ h3 {
   flex-direction: column;
   justify-content: center;
 }
+
+.bg-dqa {
+  background-image: url(../../images/under-bg.svg);
+  background-repeat: no-repeat;
+  background-position: bottom center;
+}
+
+.blue-square {
+  margin-right: 0;
+  margin-left: 141px;
+}
+
+.dqa-img {
+  margin-right: 16px;
+  margin-top: 32px;
+  margin-left: 32px;
+}
+
+.dqa-text-paragraph {
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  color: #5d5f6d;
+  width: 303px;
+}
+
+.experise-main {
+  display: flex;
+}
+
+.expertise-right {
+  margin-top: 112px;
+  margin-bottom: 96px;
+}
+
+.expertise-text {
+  width: 622px;
+}
+
+.expertise-section {
+  background-color: #ecf8f9;
+}
+
+.dqa {
+  display: flex;
+  width: 515px;
+  background-color: white;
+  margin-bottom: 12px;
+  height: 140px;
+  margin-left: 141px;
+}
+
+.dqa-text {
+  margin-top: 32px;
+}
+
+h6 {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 28px;
+  margin-bottom: 8px;
+}

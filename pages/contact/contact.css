@@ -1,1 +1,37 @@
 @import "../../css/global.css";
+h2 {
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 58px;
+  width: 672px;
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
+.caption {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 3px;
+}
+
+.on-caption-bg {
+  margin-top: 96px;
+  margin-bottom: 24px;
+}
+
+.under-heading-text {
+  opacity: 87%;
+}
+
+.filling {
+  width: 405px;
+  height: 60px;
+  border: none;
+  border-bottom: 1px solid rgba(35, 37, 54, 20%);
+  outline: none;
+  padding-bottom: 0;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
